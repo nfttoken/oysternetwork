@@ -1,4 +1,4 @@
-# ![Moonbeam](media/moonbeam-cover.jpg)
+# ![Moonbeam](media/1.jpg)
 
 ![Tests](https://github.com/PureStake/moonbeam/workflows/Release/badge.svg)
 
